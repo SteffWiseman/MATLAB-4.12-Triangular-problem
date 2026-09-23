@@ -1,0 +1,5 @@
+Inside area:  600    in^2
+Gap:          2      in
+Amin:         10     in
+Amax:         120    in
+Ainc:         0.1    in
